@@ -1,4 +1,5 @@
 # go ci workflow
+![Coverage](https://img.shields.io/badge/Coverage-100.0%25-brightgreen)
 [![CI](https://github.com/devinwangg/go-github-action/workflows/CI/badge.svg)](https://github.com/devinwangg/go-github-action/workflows/CI/badge.svg)
 
 ## Project Description
