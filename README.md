@@ -30,7 +30,7 @@ This repository demonstrates the implementation of four workflow jobs:
 - Github Account Token
 - Codecov Account Token
 
-# Usage
+## Usage
 1. Fork and Clone the Repository
    ```
     git clone git@github.com:devinwangg/go-ci-testing-workflow.git
