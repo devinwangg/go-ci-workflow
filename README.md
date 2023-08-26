@@ -1,7 +1,7 @@
 # go ci workflow
 ![Coverage](https://img.shields.io/badge/Coverage-100.0%25-brightgreen)
 [![CI](https://github.com/devinwangg/go-github-action/workflows/CI/badge.svg)](https://github.com/devinwangg/go-github-action/workflows/CI/badge.svg)
-[![Go Report Card](https://goreportcard.com/badge/devinwangg/go-ci-workflow)](https://goreportcard.com/badge/devinwangg/go-ci-workflow)
+[![Go Report Card](https://goreportcard.com/badge/devinwangg/go-ci-workflow)](https://goreportcard.com/report/github.com/devinwangg/go-ci-workflow)
 
 ## Project Description
 This repository showcases a Continuous Integration (CI) workflow for a Golang project using GitHub Actions and Codecov. The CI pipeline automatically builds the code, runs unit tests, and reports code coverage metrics via Codecov.
@@ -30,7 +30,7 @@ This repository demonstrates the implementation of four workflow jobs:
 - Github Account Token
 - Codecov Account Token
 
-# Usage
+## Usage
 1. Fork and Clone the Repository
    ```
     git clone git@github.com:devinwangg/go-ci-testing-workflow.git
