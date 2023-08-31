@@ -25,6 +25,7 @@ This repository demonstrates the implementation of four workflow jobs:
 2. Golang Style Checker: Uses the `golangci-lint` tool to check code style and quality.
 3. Unit Testing Coverage Badge: Generates a badge indicating the coverage percentage of unit tests.
 4. Semantic Versioning: Implements semantic versioning to manage versions of the project.
+5. Security Scanning: Uses the `gosec` tools to scan golang source code for security problems 
 
 ## Pre-requisites
 - Github Account Token
